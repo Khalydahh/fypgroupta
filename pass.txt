@@ -1,0 +1,14 @@
+https://ptadmin.tvetikmb.com/Pta.html
+
+Admin Credential
+Username: admin
+Password: Test@123
+
+Technician Credential
+
+Username: afnan
+Password: Test@123
+
+User Credential
+Username: testuser@gmail.com
+Password: Test@123
