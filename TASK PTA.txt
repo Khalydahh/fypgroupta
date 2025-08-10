@@ -1,0 +1,13 @@
+TASK MINGGU NIH
+
+1.landing page : buang landing page yang ade muke pakcik (SHAHID)
+2.Registaration form : login guna ic (IDAH)
+3.Registration form : login password ic (IDAH)
+4.registration form : secondary phone number required (SHAHID)
+5.admnin dashboard : print detail repair to pdf (ZAHID)
+6.admin dashboard 
+dekat in process
+ade button print : bile print ade tempat customer sign dan technician sign   (zahid)
+7.customer report form : no model (optional) ( SHAHID )
+
+date line hari rabu 13/8/2025
